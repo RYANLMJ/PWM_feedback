@@ -1,0 +1,1 @@
+PWM Generator + Hall sensor output ADC feedback
